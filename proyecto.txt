@@ -1,0 +1,1 @@
+Mi idea del proyecto es idear un sistema web que se base en la compra de diversas prendas de ropa, que contenga un registro, inicio de sesión, catálogo de productos y métodos de pagos variados.
